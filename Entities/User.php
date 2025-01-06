@@ -66,5 +66,4 @@ class User{
     
 }
 
-$user = new User(1, "cv", "dfdf", "df", "dsfg", "cvb", "dfv");
-echo $user->__tostring();
+// .
